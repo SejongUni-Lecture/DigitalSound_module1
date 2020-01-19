@@ -26,6 +26,6 @@ Stereo speakers are the only sound effects of moving objects that generate sound
 
 ## Library 
 
-Used FMOD Library to manipulate sound source as an object
-For more information about FMOD, visit [FMOD User Manual]: https://www.fmod.com/resources/documentation-api?version=2.0&page=welcome.html
+Used FMOD Library to manipulate sound source as an object  
+For more information about FMOD, visit [FMOD User Manual]: (https://www.fmod.com/resources/documentation-api?version=2.0&page=welcome.html)
 
