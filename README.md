@@ -25,8 +25,7 @@ Stereo speakers are the only sound effects of moving objects that generate sound
 Input: 1 second mono frequency sound (16000Hz, 16-bit, stereo), '''file source & exe must be in the same directory'''
 Output: 4 second-length result audio sample with 3D aural effect hovering above in circular motion  
 
-![FMOD Description](./img/fmod_description.png)
-<center><img src="./img/fmod_description.png"></center>  
+![FMOD Description](./img/fmod_description.PNG)
 To summarize, I simply utilized angular velocity considering the length of the sound  
 
 ---
