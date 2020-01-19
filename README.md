@@ -21,7 +21,11 @@ Stereo speakers are the only sound effects of moving objects that generate sound
 
 ---
 
-## How it works
+## Solution
+Input: 1 second mono frequency sound (16000Hz 16-bit, stereo)  
+Output: 4 second-length result audio sample with 3D aural effect hovering above in circular motion  
+
+
 
 
 ## Library 
