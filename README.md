@@ -11,7 +11,7 @@ Implement sound-manipulating effect through stereo speaker
 #### Topic
 Implement 3D Aural Effect by moving the sound source back and forth  
 #### Principle & Theory
-We've used difference between intensity of the sound and left and right balance, based on psychoacoustic  
+Used difference between intensity of the sound and left and right balance, based on psychoacoustic  
 
 ### Problem 
 Stereo speakers are the only sound effects of moving objects that generate sound above the user's head in a circular motion    
@@ -22,11 +22,13 @@ Stereo speakers are the only sound effects of moving objects that generate sound
 ---
 
 ## Solution
-Input: 1 second mono frequency sound (16000Hz 16-bit, stereo)  
+Input: 1 second mono frequency sound (16000Hz, 16-bit, stereo), '''file source & exe must be in the same directory'''
 Output: 4 second-length result audio sample with 3D aural effect hovering above in circular motion  
 
+<center><img src="/img/fmod_description.png"></center>  
+To summarize, I simply utilized angular velocity considering the length of the sound  
 
-
+---
 
 ## Library 
 
