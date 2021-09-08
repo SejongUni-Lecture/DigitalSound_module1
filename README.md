@@ -1,10 +1,10 @@
 
-# Digital Sound module 1
+## Digital Sound module 1
 
-## Introduction 
+#### Introduction 
 This project is a module #1 for Digital Sound Lecture: Binaural Effect  
 
-### Learning Objective
+#### Learning Objective
 Implement sound-manipulating effect through stereo speaker  
 
 ### Content
